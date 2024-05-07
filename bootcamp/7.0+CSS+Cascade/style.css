@@ -1,0 +1,21 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  color: red;
+  margin: 0;
+  padding: 0;
+}
+
+.white-text{
+  color:white;
+}
+
+#id-text {
+  color: red;
+}

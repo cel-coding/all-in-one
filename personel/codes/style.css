@@ -1,0 +1,9 @@
+.boyimage {
+    position: relative;
+    left: 8%;
+}
+
+.cornerimage {
+    position:absolute;
+    text-align: left;
+}
