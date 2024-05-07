@@ -7,15 +7,20 @@
 
 p {
   color: yellow;
-  color: red;
   margin: 0;
   padding: 0;
 }
 
+.inner-box {
+  background-color: red;
+}
 .white-text{
   color:white;
+  padding: 10px;
+  
 }
 
-#id-text {
-  color: red;
+#outer-box {
+  border: 10px solid purple;
+ 
 }
