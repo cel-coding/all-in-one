@@ -1,9 +1,8 @@
-.boyimage {
-    position: relative;
-    left: 8%;
+.box {
+    background-color: blue;
 }
 
-.cornerimage {
-    position:absolute;
-    text-align: left;
+p{
+    color: yellow;
 }
+
